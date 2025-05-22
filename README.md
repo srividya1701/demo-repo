@@ -1,3 +1,3 @@
 demo
 
-sample text.
+sample text!
